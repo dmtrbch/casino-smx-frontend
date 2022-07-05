@@ -1,2 +1,2 @@
 
-# CONSENSYS HACKATHON - Building a Dapp
+# Building a Dapp
